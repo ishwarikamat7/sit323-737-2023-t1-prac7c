@@ -6,7 +6,7 @@ metadata:
     run: mypod
 spec:
   containers:
-  - image: ishwarik7/docker-web-app:latest
+  - image: ishwarik7/docker_image_7c:latest
     name: nodewebapp
     imagePullPolicy: Never
     ports:
